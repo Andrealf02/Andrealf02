@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm Andrea! 👋
 
-<!--
-**Andrealf02/Andrealf02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer at Holaluz.
 
-Here are some ideas to get you started:
+🌍 I love volleyball, enjoy traveling, and adore art.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+- Email: alf.franconetti@gmail.com
+- LinkedIn: [linkedin.com/in/andrea-lluch-franconetti](https://www.linkedin.com/in/andrea-lluch-franconetti/)
+
+## Languages and Tools:
+- Java
+- Kotlin
+- PHP
+- Laravel
+- Relational SQL Databases
+- Hexagonal Architecture
+- Test-Driven Development (TDD)
+- Domain-Driven Design (DDD)
+- CSS3
+- Git
+- HTML5
+- JavaScript
+- Basic Vue
+- React Native
