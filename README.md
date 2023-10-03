@@ -60,10 +60,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Andrealf02/Andrealf02/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=09c6wpjzqmnaygyvthknxecxl" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/playlist/37i9dQZF1EpqzbqdfRsTHw?si=6e5b126e18a24b0f" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=09c6wpjzqmnaygyvthknxecxl" alt="Spotify recently played" />
+  </a>
 </div>
+
