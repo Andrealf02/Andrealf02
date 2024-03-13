@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm a backend developer at Holaluz.<br><br>🌍 I love volleyball, enjoy traveling, and adore art.</p>
+<p align="left">I'm a backend developer <br><br>🌍 I love volleyball, enjoy traveling, and adore art.</p>
 
 ###
 
