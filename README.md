@@ -23,8 +23,8 @@
 
 ### 🧠 Philosophy
 
-> Fem un pensa?
-> No ni na
+> Fem un pensa? 
+
 
 ---
 
