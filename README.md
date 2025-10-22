@@ -1,62 +1,94 @@
-<br clear="both">
+<br clear="both" />
 
 <div align="center">
-  <img height="150" src="https://github.com/Andrealf02/Andrealf02/blob/main/img.jpg?raw=true"  />
+  <img height="140" src="https://github.com/Andrealf02/Andrealf02/blob/main/img.jpg?raw=true" style="border-radius: 50%;" />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andrea-lluch-franconetti/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Andrea%20Lluch%20Franconetti-000000?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center" style="font-weight: 600;">ALF</h1>
 
-###
+<p align="center">
+  <strong>Software Developer</strong> · <strong>Scrum Master</strong> · <strong>Tech Speaker</strong><br> · <strong>Xarnega</strong><br> ·
+  Fan about clean architecture, agile teams, and inclusive tech.
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### 🧠 Philosophy
 
-<p align="left">I'm a backend developer <br><br>🌍 I love volleyball, enjoy traveling, and adore art.</p>
+> Fem un pensa?
+> No ni na
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/@aws-sdk/core@3.914.0/dist-cjs/index.min.js" height="40" alt="amazonwebservices logo"/>  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Andrealf02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
 </div>
 
-###
+---
+
+### 🎤 Talks & Community
+
+- Hexagonal Architecture – Commit Conf Madrid 2025  
+- Women in Tech – Seville 2025  
+- Hexagonal Architecture – Meetup Seville 2025  
+
+---
+
+### 📚 Certifications
+
+- PSM I – Professional Scrum Master  
+- Cybersecurity in Business Environments  
+- Application Development – Coderhouse  
+- Scrum & Agile Methodologies – Udemy  
+
+---
+
+### 🌍 Languages
+
+- Spanish 🇪🇸 · Catalan 🏴 · English 🇬🇧 (B1)
+
+---
+
+### 🧡 Volunteering
+
+- Adhara (2022–Present)  
+- Step4ward (2025–Present)  
+
+---
+
+### 🎧 Now Playing
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/37i9dQZF1EpqzbqdfRsTHw?si=6e5b126e18a24b0f" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=09c6wpjzqmnaygyvthknxecxl" alt="Spotify recently played" />
   </a>
 </div>
+
+---
+
+### 🏐 Interests
+
+- Volleyball (Federated Player – when my knee behaves) 
+- Psychology & Inclusion Advocacy  
+- Cultural Events & Community Engagement & LGTBIQ+  
+
+---
 
